@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task5_Navigation_graph</string>
+    <string name="toSecond">second</string>
+    <string name="toFirst">first</string>
+    <string name="toThird">third</string>
+    <string name="toAbout">about</string>
+</resources>
