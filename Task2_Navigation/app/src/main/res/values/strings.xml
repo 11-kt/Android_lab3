@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task2_Navigation</string>
+    <string name="toSecond">Second</string>
+    <string name="toFirst">first</string>
+    <string name="toThird">third</string>
+    <string name="toAbout">about</string>
+</resources>

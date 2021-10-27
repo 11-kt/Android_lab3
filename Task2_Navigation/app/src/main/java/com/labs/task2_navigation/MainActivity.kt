@@ -1,0 +1,35 @@
+package com.labs.task2_navigation
+
+import android.content.Intent
+import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
+import android.view.MenuItem
+import android.widget.Button
+import com.google.android.material.bottomnavigation.BottomNavigationView
+
+object Nav {
+    const val TO_FIRST = 1
+    const val TO_SECOND = 2
+}
+
+class MainActivity : AppCompatActivity() {
+
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_main)
+        title = "Activity1"
+
+        findViewById<Button>(R.id.second_act_main).setOnClickListener {
+            startActivity(Intent(applicationContext, SecondActivity::class.java))
+        }
+
+        findViewById<BottomNavigationView>(R.id.bottom_navigation).setOnItemSelectedListener { item ->
+            if (item.itemId == R.id.about) {
+                startActivity(Intent(applicationContext, AboutActivity::class.java))
+            }
+            true
+        }
+
+    }
+
+}
