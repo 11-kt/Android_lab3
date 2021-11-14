@@ -13,17 +13,17 @@ class ThirdActivity : AppCompatActivity() {
         setContentView(R.layout.activity_third)
         title = "Activity3"
 
-        findViewById<Button>(R.id.first_act_third).setOnClickListener {
+        findViewById<Button>(R.id.bnToFirst).setOnClickListener {
             setResult(Nav.TO_FIRST)
             finish()
         }
 
-        findViewById<Button>(R.id.second_act_third).setOnClickListener {
+        findViewById<Button>(R.id.bnToSecond).setOnClickListener {
             setResult(Nav.TO_SECOND)
             finish()
         }
 
-        findViewById<BottomNavigationView>(R.id.bottom_navigation).setOnItemSelectedListener { item ->
+        findViewById<BottomNavigationView>(R.id.nav_view).setOnItemSelectedListener { item ->
             if (item.itemId == R.id.about) {
                 startActivity(Intent(applicationContext, AboutActivity::class.java))
             }

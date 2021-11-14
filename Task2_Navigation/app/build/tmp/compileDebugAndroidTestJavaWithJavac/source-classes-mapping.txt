@@ -1,0 +1,2 @@
+com/labs/task2_navigation/test/BuildConfig.java
+ com.labs.task2_navigation.test.BuildConfig

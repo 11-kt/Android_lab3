@@ -9,8 +9,8 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
-        findViewById<BottomNavigationView>(R.id.bottom_navigation).setOnItemSelectedListener { item ->
+        supportActionBar!!.setDisplayHomeAsUpEnabled(true)
+        findViewById<BottomNavigationView>(R.id.nav_view).setOnItemSelectedListener { item ->
             if (item.itemId == R.id.about) {
                 findNavController(R.id.fragmentContainerView).navigate(R.id.action_to_activity_about)
             }
@@ -18,4 +18,10 @@ class MainActivity : AppCompatActivity() {
         }
 
     }
+
+    override fun onSupportNavigateUp(): Boolean {
+        onBackPressed()
+        return super.onSupportNavigateUp()
+    }
+
 }

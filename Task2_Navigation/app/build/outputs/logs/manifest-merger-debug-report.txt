@@ -1,0 +1,341 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml:2:1-34:12
+MERGED from [androidx.fragment:fragment-testing:1.3.6] /home/kayatone/.gradle/caches/transforms-3/2eb7eeeaf0651b65c7a75d4b764bf966/transformed/jetified-fragment-testing-1.3.6/AndroidManifest.xml:17:1-40:12
+MERGED from [androidx.test:core-ktx:1.4.0] /home/kayatone/.gradle/caches/transforms-3/61a4d3462da21644c602a19ef22d14b1/transformed/jetified-core-ktx-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.3.6] /home/kayatone/.gradle/caches/transforms-3/5a85d280b08f8332726d808ea8dddc40/transformed/jetified-fragment-ktx-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] /home/kayatone/.gradle/caches/transforms-3/95ae888e95139cbda58b2bae4674036e/transformed/navigation-ui-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] /home/kayatone/.gradle/caches/transforms-3/afdeb4778c65ba3433703ebacab05693/transformed/navigation-runtime-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.2] /home/kayatone/.gradle/caches/transforms-3/bf3adc9e9867bf0e8ba3c55e1e6954bc/transformed/jetified-activity-ktx-1.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] /home/kayatone/.gradle/caches/transforms-3/4db2c4791c1474a185980fd80f60fe98/transformed/navigation-common-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.6.0] /home/kayatone/.gradle/caches/transforms-3/aed3541978a412908cb1c7ea2ac6fe82/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.test.espresso:espresso-contrib:3.4.0] /home/kayatone/.gradle/caches/transforms-3/bc94f1f3bf8a1e80bc088b6ecaf459a4/transformed/espresso-contrib-3.4.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /home/kayatone/.gradle/caches/transforms-3/1e20b6b164c2bb97ce3b6bd1656e943b/transformed/navigation-ui-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.apps.common.testing.accessibility.framework:accessibility-test-framework:3.1] /home/kayatone/.gradle/caches/transforms-3/57103fc8054e886a891edb9879632645/transformed/jetified-accessibility-test-framework-3.1/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.material:material:1.4.0] /home/kayatone/.gradle/caches/transforms-3/269b6cec2d35f1a45119a4d301a6c6bb/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /home/kayatone/.gradle/caches/transforms-3/5052385bf48b863b5b01c8a66d365739/transformed/constraintlayout-2.1.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] /home/kayatone/.gradle/caches/transforms-3/88d4b970d0ace4b04a7e8490a09a01c9/transformed/appcompat-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /home/kayatone/.gradle/caches/transforms-3/e3365c0ea8262be176ef882f35309cfd/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/kayatone/.gradle/caches/transforms-3/b2930ecc8f97419dc1cb067556c8098d/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /home/kayatone/.gradle/caches/transforms-3/cefc5ecb723ea318136d00e11cff69a9/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /home/kayatone/.gradle/caches/transforms-3/782c1a6d45d47402d94b398427c15c31/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:core:1.4.0] /home/kayatone/.gradle/caches/transforms-3/fb56739d8f318f455312f29d8ee9a658/transformed/jetified-core-1.4.0/AndroidManifest.xml:17:1-53:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/kayatone/.gradle/caches/transforms-3/d81908fe96958100e7013d398205ac53/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /home/kayatone/.gradle/caches/transforms-3/af548fef3f397e5d658d5546151d833a/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /home/kayatone/.gradle/caches/transforms-3/eea350097b13f5d623f1eeca877b4855/transformed/navigation-runtime-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /home/kayatone/.gradle/caches/transforms-3/aac9f9900e5d9793adbdc4d4cab4edac/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/kayatone/.gradle/caches/transforms-3/70517025f35ab32ee65c7251e912c990/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/kayatone/.gradle/caches/transforms-3/05353e29297206ceac195f8bc0a69364/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /home/kayatone/.gradle/caches/transforms-3/408b5719dea5981d30d3da208832a989/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/kayatone/.gradle/caches/transforms-3/fae6b990d8539d945fa44d5f2392eca8/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/kayatone/.gradle/caches/transforms-3/a438cc79957fd6f0281d36207090e8b6/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/kayatone/.gradle/caches/transforms-3/f5225d8c17b261ca3ba47c00984c812c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/kayatone/.gradle/caches/transforms-3/5892d91de3f3f00394a44931b1c1a921/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/kayatone/.gradle/caches/transforms-3/69bce89a08f0abeeac1ea2954d442795/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/kayatone/.gradle/caches/transforms-3/e6e6a36c819be6b8b1d1e093bc84eae4/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/kayatone/.gradle/caches/transforms-3/a362936779cbdcb47a515edb33ac8224/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/kayatone/.gradle/caches/transforms-3/e85bfbd6462ec71711458fc797b965ce/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/kayatone/.gradle/caches/transforms-3/b24fe0cc947a9bc907840f9ff125f1a2/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /home/kayatone/.gradle/caches/transforms-3/2b307b6dcbfc12eb3715b926631ccf98/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] /home/kayatone/.gradle/caches/transforms-3/8313c1ca2ac5f040b0578dd47f503d18/transformed/transition-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.5] /home/kayatone/.gradle/caches/transforms-3/82043d1a7f08813ce6bf45f0c48f0b87/transformed/navigation-common-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.6.0] /home/kayatone/.gradle/caches/transforms-3/c524cd0df90697c29103cc2e789c4b88/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/kayatone/.gradle/caches/transforms-3/10df58d3183b31f6c985de67ba003c69/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/kayatone/.gradle/caches/transforms-3/3c454b1f464bf8aa699f9be022036223/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/kayatone/.gradle/caches/transforms-3/1ea25576a5f7f9c17bd1fc2683041e22/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/kayatone/.gradle/caches/transforms-3/100a2789caa764fbcdf31450d421e2a6/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/kayatone/.gradle/caches/transforms-3/8678bb2e204c4cbe86e1a54d0d0e4164/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/kayatone/.gradle/caches/transforms-3/c543a7da664ecb649273f63ae87717a9/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.test.espresso:espresso-core:3.4.0] /home/kayatone/.gradle/caches/transforms-3/07470e24b54621a7181c7b62d837bbc0/transformed/espresso-core-3.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:runner:1.4.0] /home/kayatone/.gradle/caches/transforms-3/bc0dc5e94bd2b1a37e3ac70aa66e81be/transformed/runner-1.4.0/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.test.services:storage:1.4.0] /home/kayatone/.gradle/caches/transforms-3/c814b12bd71f392073afc92d53d90757/transformed/jetified-storage-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:monitor:1.4.0] /home/kayatone/.gradle/caches/transforms-3/1c8411508929501731d9e70861af5fcb/transformed/monitor-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/kayatone/.gradle/caches/transforms-3/cd4143750c5bd28cc4d71af9dba0f93b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/kayatone/.gradle/caches/transforms-3/4402ba3a506e8511536535f5881d6202/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/kayatone/.gradle/caches/transforms-3/20b4639d033624c74b7fc443c8a58825/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/kayatone/.gradle/caches/transforms-3/8ed77be210d5ec69c90d8179b722b26c/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/kayatone/.gradle/caches/transforms-3/1daa4c5b786cdf653238794ed4de7516/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/kayatone/.gradle/caches/transforms-3/0d0d57a1b005faecd722d8b57fc4ab7b/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/kayatone/.gradle/caches/transforms-3/e9ed5a7df289586d77c50e4ea128707c/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/kayatone/.gradle/caches/transforms-3/86e6e9923c33c1ac434aec448120573d/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.4.0] /home/kayatone/.gradle/caches/transforms-3/698a18d9234de53574d64bac603c8184/transformed/espresso-idling-resource-3.4.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml
+		ADDED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml
+		ADDED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml:5:5-32:19
+MERGED from [androidx.fragment:fragment-testing:1.3.6] /home/kayatone/.gradle/caches/transforms-3/2eb7eeeaf0651b65c7a75d4b764bf966/transformed/jetified-fragment-testing-1.3.6/AndroidManifest.xml:27:5-38:19
+MERGED from [androidx.fragment:fragment-testing:1.3.6] /home/kayatone/.gradle/caches/transforms-3/2eb7eeeaf0651b65c7a75d4b764bf966/transformed/jetified-fragment-testing-1.3.6/AndroidManifest.xml:27:5-38:19
+MERGED from [androidx.test.espresso:espresso-contrib:3.4.0] /home/kayatone/.gradle/caches/transforms-3/bc94f1f3bf8a1e80bc088b6ecaf459a4/transformed/espresso-contrib-3.4.0/AndroidManifest.xml:24:5-20
+MERGED from [androidx.test.espresso:espresso-contrib:3.4.0] /home/kayatone/.gradle/caches/transforms-3/bc94f1f3bf8a1e80bc088b6ecaf459a4/transformed/espresso-contrib-3.4.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.4.0] /home/kayatone/.gradle/caches/transforms-3/269b6cec2d35f1a45119a4d301a6c6bb/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /home/kayatone/.gradle/caches/transforms-3/269b6cec2d35f1a45119a4d301a6c6bb/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /home/kayatone/.gradle/caches/transforms-3/5052385bf48b863b5b01c8a66d365739/transformed/constraintlayout-2.1.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /home/kayatone/.gradle/caches/transforms-3/5052385bf48b863b5b01c8a66d365739/transformed/constraintlayout-2.1.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.test:core:1.4.0] /home/kayatone/.gradle/caches/transforms-3/fb56739d8f318f455312f29d8ee9a658/transformed/jetified-core-1.4.0/AndroidManifest.xml:26:5-51:19
+MERGED from [androidx.test:core:1.4.0] /home/kayatone/.gradle/caches/transforms-3/fb56739d8f318f455312f29d8ee9a658/transformed/jetified-core-1.4.0/AndroidManifest.xml:26:5-51:19
+MERGED from [androidx.core:core:1.6.0] /home/kayatone/.gradle/caches/transforms-3/c524cd0df90697c29103cc2e789c4b88/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /home/kayatone/.gradle/caches/transforms-3/c524cd0df90697c29103cc2e789c4b88/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.test:runner:1.4.0] /home/kayatone/.gradle/caches/transforms-3/bc0dc5e94bd2b1a37e3ac70aa66e81be/transformed/runner-1.4.0/AndroidManifest.xml:30:5-20
+MERGED from [androidx.test:runner:1.4.0] /home/kayatone/.gradle/caches/transforms-3/bc0dc5e94bd2b1a37e3ac70aa66e81be/transformed/runner-1.4.0/AndroidManifest.xml:30:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/kayatone/.gradle/caches/transforms-3/cd4143750c5bd28cc4d71af9dba0f93b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/kayatone/.gradle/caches/transforms-3/cd4143750c5bd28cc4d71af9dba0f93b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /home/kayatone/.gradle/caches/transforms-3/c524cd0df90697c29103cc2e789c4b88/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml:11:9-54
+activity#com.labs.task2_navigation.AboutActivity
+ADDED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml:12:9-14:39
+	android:exported
+		ADDED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml:13:13-42
+activity#com.labs.task2_navigation.ThirdActivity
+ADDED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml:15:9-18:39
+	android:parentActivityName
+		ADDED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml:17:13-57
+	android:exported
+		ADDED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml:16:13-42
+activity#com.labs.task2_navigation.SecondActivity
+ADDED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml:19:9-22:39
+	android:parentActivityName
+		ADDED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml:21:13-55
+	android:exported
+		ADDED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml:22:13-36
+	android:name
+		ADDED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml:20:13-43
+activity#com.labs.task2_navigation.MainActivity
+ADDED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml:23:9-31:20
+	android:exported
+		ADDED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml:24:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml
+INJECTED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml
+MERGED from [androidx.fragment:fragment-testing:1.3.6] /home/kayatone/.gradle/caches/transforms-3/2eb7eeeaf0651b65c7a75d4b764bf966/transformed/jetified-fragment-testing-1.3.6/AndroidManifest.xml:20:5-23:54
+MERGED from [androidx.fragment:fragment-testing:1.3.6] /home/kayatone/.gradle/caches/transforms-3/2eb7eeeaf0651b65c7a75d4b764bf966/transformed/jetified-fragment-testing-1.3.6/AndroidManifest.xml:20:5-23:54
+MERGED from [androidx.test:core-ktx:1.4.0] /home/kayatone/.gradle/caches/transforms-3/61a4d3462da21644c602a19ef22d14b1/transformed/jetified-core-ktx-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:core-ktx:1.4.0] /home/kayatone/.gradle/caches/transforms-3/61a4d3462da21644c602a19ef22d14b1/transformed/jetified-core-ktx-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.3.6] /home/kayatone/.gradle/caches/transforms-3/5a85d280b08f8332726d808ea8dddc40/transformed/jetified-fragment-ktx-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.3.6] /home/kayatone/.gradle/caches/transforms-3/5a85d280b08f8332726d808ea8dddc40/transformed/jetified-fragment-ktx-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] /home/kayatone/.gradle/caches/transforms-3/95ae888e95139cbda58b2bae4674036e/transformed/navigation-ui-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] /home/kayatone/.gradle/caches/transforms-3/95ae888e95139cbda58b2bae4674036e/transformed/navigation-ui-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] /home/kayatone/.gradle/caches/transforms-3/afdeb4778c65ba3433703ebacab05693/transformed/navigation-runtime-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] /home/kayatone/.gradle/caches/transforms-3/afdeb4778c65ba3433703ebacab05693/transformed/navigation-runtime-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.2] /home/kayatone/.gradle/caches/transforms-3/bf3adc9e9867bf0e8ba3c55e1e6954bc/transformed/jetified-activity-ktx-1.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.2] /home/kayatone/.gradle/caches/transforms-3/bf3adc9e9867bf0e8ba3c55e1e6954bc/transformed/jetified-activity-ktx-1.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] /home/kayatone/.gradle/caches/transforms-3/4db2c4791c1474a185980fd80f60fe98/transformed/navigation-common-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] /home/kayatone/.gradle/caches/transforms-3/4db2c4791c1474a185980fd80f60fe98/transformed/navigation-common-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.6.0] /home/kayatone/.gradle/caches/transforms-3/aed3541978a412908cb1c7ea2ac6fe82/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] /home/kayatone/.gradle/caches/transforms-3/aed3541978a412908cb1c7ea2ac6fe82/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.test.espresso:espresso-contrib:3.4.0] /home/kayatone/.gradle/caches/transforms-3/bc94f1f3bf8a1e80bc088b6ecaf459a4/transformed/espresso-contrib-3.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-contrib:3.4.0] /home/kayatone/.gradle/caches/transforms-3/bc94f1f3bf8a1e80bc088b6ecaf459a4/transformed/espresso-contrib-3.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /home/kayatone/.gradle/caches/transforms-3/1e20b6b164c2bb97ce3b6bd1656e943b/transformed/navigation-ui-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /home/kayatone/.gradle/caches/transforms-3/1e20b6b164c2bb97ce3b6bd1656e943b/transformed/navigation-ui-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.apps.common.testing.accessibility.framework:accessibility-test-framework:3.1] /home/kayatone/.gradle/caches/transforms-3/57103fc8054e886a891edb9879632645/transformed/jetified-accessibility-test-framework-3.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.apps.common.testing.accessibility.framework:accessibility-test-framework:3.1] /home/kayatone/.gradle/caches/transforms-3/57103fc8054e886a891edb9879632645/transformed/jetified-accessibility-test-framework-3.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.material:material:1.4.0] /home/kayatone/.gradle/caches/transforms-3/269b6cec2d35f1a45119a4d301a6c6bb/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /home/kayatone/.gradle/caches/transforms-3/269b6cec2d35f1a45119a4d301a6c6bb/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /home/kayatone/.gradle/caches/transforms-3/5052385bf48b863b5b01c8a66d365739/transformed/constraintlayout-2.1.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /home/kayatone/.gradle/caches/transforms-3/5052385bf48b863b5b01c8a66d365739/transformed/constraintlayout-2.1.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /home/kayatone/.gradle/caches/transforms-3/88d4b970d0ace4b04a7e8490a09a01c9/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /home/kayatone/.gradle/caches/transforms-3/88d4b970d0ace4b04a7e8490a09a01c9/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /home/kayatone/.gradle/caches/transforms-3/e3365c0ea8262be176ef882f35309cfd/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /home/kayatone/.gradle/caches/transforms-3/e3365c0ea8262be176ef882f35309cfd/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/kayatone/.gradle/caches/transforms-3/b2930ecc8f97419dc1cb067556c8098d/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/kayatone/.gradle/caches/transforms-3/b2930ecc8f97419dc1cb067556c8098d/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /home/kayatone/.gradle/caches/transforms-3/cefc5ecb723ea318136d00e11cff69a9/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /home/kayatone/.gradle/caches/transforms-3/cefc5ecb723ea318136d00e11cff69a9/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /home/kayatone/.gradle/caches/transforms-3/782c1a6d45d47402d94b398427c15c31/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /home/kayatone/.gradle/caches/transforms-3/782c1a6d45d47402d94b398427c15c31/transformed/jetified-lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:core:1.4.0] /home/kayatone/.gradle/caches/transforms-3/fb56739d8f318f455312f29d8ee9a658/transformed/jetified-core-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:core:1.4.0] /home/kayatone/.gradle/caches/transforms-3/fb56739d8f318f455312f29d8ee9a658/transformed/jetified-core-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/kayatone/.gradle/caches/transforms-3/d81908fe96958100e7013d398205ac53/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/kayatone/.gradle/caches/transforms-3/d81908fe96958100e7013d398205ac53/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/kayatone/.gradle/caches/transforms-3/af548fef3f397e5d658d5546151d833a/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/kayatone/.gradle/caches/transforms-3/af548fef3f397e5d658d5546151d833a/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /home/kayatone/.gradle/caches/transforms-3/eea350097b13f5d623f1eeca877b4855/transformed/navigation-runtime-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /home/kayatone/.gradle/caches/transforms-3/eea350097b13f5d623f1eeca877b4855/transformed/navigation-runtime-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/kayatone/.gradle/caches/transforms-3/aac9f9900e5d9793adbdc4d4cab4edac/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/kayatone/.gradle/caches/transforms-3/aac9f9900e5d9793adbdc4d4cab4edac/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/kayatone/.gradle/caches/transforms-3/70517025f35ab32ee65c7251e912c990/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/kayatone/.gradle/caches/transforms-3/70517025f35ab32ee65c7251e912c990/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/kayatone/.gradle/caches/transforms-3/05353e29297206ceac195f8bc0a69364/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/kayatone/.gradle/caches/transforms-3/05353e29297206ceac195f8bc0a69364/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /home/kayatone/.gradle/caches/transforms-3/408b5719dea5981d30d3da208832a989/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /home/kayatone/.gradle/caches/transforms-3/408b5719dea5981d30d3da208832a989/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/kayatone/.gradle/caches/transforms-3/fae6b990d8539d945fa44d5f2392eca8/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/kayatone/.gradle/caches/transforms-3/fae6b990d8539d945fa44d5f2392eca8/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/kayatone/.gradle/caches/transforms-3/a438cc79957fd6f0281d36207090e8b6/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/kayatone/.gradle/caches/transforms-3/a438cc79957fd6f0281d36207090e8b6/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/kayatone/.gradle/caches/transforms-3/f5225d8c17b261ca3ba47c00984c812c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/kayatone/.gradle/caches/transforms-3/f5225d8c17b261ca3ba47c00984c812c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/kayatone/.gradle/caches/transforms-3/5892d91de3f3f00394a44931b1c1a921/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/kayatone/.gradle/caches/transforms-3/5892d91de3f3f00394a44931b1c1a921/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/kayatone/.gradle/caches/transforms-3/69bce89a08f0abeeac1ea2954d442795/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/kayatone/.gradle/caches/transforms-3/69bce89a08f0abeeac1ea2954d442795/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/kayatone/.gradle/caches/transforms-3/e6e6a36c819be6b8b1d1e093bc84eae4/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/kayatone/.gradle/caches/transforms-3/e6e6a36c819be6b8b1d1e093bc84eae4/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/kayatone/.gradle/caches/transforms-3/a362936779cbdcb47a515edb33ac8224/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/kayatone/.gradle/caches/transforms-3/a362936779cbdcb47a515edb33ac8224/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/kayatone/.gradle/caches/transforms-3/e85bfbd6462ec71711458fc797b965ce/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/kayatone/.gradle/caches/transforms-3/e85bfbd6462ec71711458fc797b965ce/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/kayatone/.gradle/caches/transforms-3/b24fe0cc947a9bc907840f9ff125f1a2/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/kayatone/.gradle/caches/transforms-3/b24fe0cc947a9bc907840f9ff125f1a2/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/kayatone/.gradle/caches/transforms-3/2b307b6dcbfc12eb3715b926631ccf98/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/kayatone/.gradle/caches/transforms-3/2b307b6dcbfc12eb3715b926631ccf98/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /home/kayatone/.gradle/caches/transforms-3/8313c1ca2ac5f040b0578dd47f503d18/transformed/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /home/kayatone/.gradle/caches/transforms-3/8313c1ca2ac5f040b0578dd47f503d18/transformed/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] /home/kayatone/.gradle/caches/transforms-3/82043d1a7f08813ce6bf45f0c48f0b87/transformed/navigation-common-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] /home/kayatone/.gradle/caches/transforms-3/82043d1a7f08813ce6bf45f0c48f0b87/transformed/navigation-common-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /home/kayatone/.gradle/caches/transforms-3/c524cd0df90697c29103cc2e789c4b88/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /home/kayatone/.gradle/caches/transforms-3/c524cd0df90697c29103cc2e789c4b88/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/kayatone/.gradle/caches/transforms-3/10df58d3183b31f6c985de67ba003c69/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/kayatone/.gradle/caches/transforms-3/10df58d3183b31f6c985de67ba003c69/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/kayatone/.gradle/caches/transforms-3/3c454b1f464bf8aa699f9be022036223/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/kayatone/.gradle/caches/transforms-3/3c454b1f464bf8aa699f9be022036223/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/kayatone/.gradle/caches/transforms-3/1ea25576a5f7f9c17bd1fc2683041e22/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/kayatone/.gradle/caches/transforms-3/1ea25576a5f7f9c17bd1fc2683041e22/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/kayatone/.gradle/caches/transforms-3/100a2789caa764fbcdf31450d421e2a6/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/kayatone/.gradle/caches/transforms-3/100a2789caa764fbcdf31450d421e2a6/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/kayatone/.gradle/caches/transforms-3/8678bb2e204c4cbe86e1a54d0d0e4164/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/kayatone/.gradle/caches/transforms-3/8678bb2e204c4cbe86e1a54d0d0e4164/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/kayatone/.gradle/caches/transforms-3/c543a7da664ecb649273f63ae87717a9/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/kayatone/.gradle/caches/transforms-3/c543a7da664ecb649273f63ae87717a9/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.test.espresso:espresso-core:3.4.0] /home/kayatone/.gradle/caches/transforms-3/07470e24b54621a7181c7b62d837bbc0/transformed/espresso-core-3.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-core:3.4.0] /home/kayatone/.gradle/caches/transforms-3/07470e24b54621a7181c7b62d837bbc0/transformed/espresso-core-3.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.4.0] /home/kayatone/.gradle/caches/transforms-3/bc0dc5e94bd2b1a37e3ac70aa66e81be/transformed/runner-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.4.0] /home/kayatone/.gradle/caches/transforms-3/bc0dc5e94bd2b1a37e3ac70aa66e81be/transformed/runner-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.services:storage:1.4.0] /home/kayatone/.gradle/caches/transforms-3/c814b12bd71f392073afc92d53d90757/transformed/jetified-storage-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.services:storage:1.4.0] /home/kayatone/.gradle/caches/transforms-3/c814b12bd71f392073afc92d53d90757/transformed/jetified-storage-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.4.0] /home/kayatone/.gradle/caches/transforms-3/1c8411508929501731d9e70861af5fcb/transformed/monitor-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.4.0] /home/kayatone/.gradle/caches/transforms-3/1c8411508929501731d9e70861af5fcb/transformed/monitor-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/kayatone/.gradle/caches/transforms-3/cd4143750c5bd28cc4d71af9dba0f93b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/kayatone/.gradle/caches/transforms-3/cd4143750c5bd28cc4d71af9dba0f93b/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/kayatone/.gradle/caches/transforms-3/4402ba3a506e8511536535f5881d6202/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/kayatone/.gradle/caches/transforms-3/4402ba3a506e8511536535f5881d6202/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/kayatone/.gradle/caches/transforms-3/20b4639d033624c74b7fc443c8a58825/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/kayatone/.gradle/caches/transforms-3/20b4639d033624c74b7fc443c8a58825/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/kayatone/.gradle/caches/transforms-3/8ed77be210d5ec69c90d8179b722b26c/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/kayatone/.gradle/caches/transforms-3/8ed77be210d5ec69c90d8179b722b26c/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/kayatone/.gradle/caches/transforms-3/1daa4c5b786cdf653238794ed4de7516/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/kayatone/.gradle/caches/transforms-3/1daa4c5b786cdf653238794ed4de7516/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/kayatone/.gradle/caches/transforms-3/0d0d57a1b005faecd722d8b57fc4ab7b/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/kayatone/.gradle/caches/transforms-3/0d0d57a1b005faecd722d8b57fc4ab7b/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/kayatone/.gradle/caches/transforms-3/e9ed5a7df289586d77c50e4ea128707c/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/kayatone/.gradle/caches/transforms-3/e9ed5a7df289586d77c50e4ea128707c/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/kayatone/.gradle/caches/transforms-3/86e6e9923c33c1ac434aec448120573d/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/kayatone/.gradle/caches/transforms-3/86e6e9923c33c1ac434aec448120573d/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.4.0] /home/kayatone/.gradle/caches/transforms-3/698a18d9234de53574d64bac603c8184/transformed/espresso-idling-resource-3.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.4.0] /home/kayatone/.gradle/caches/transforms-3/698a18d9234de53574d64bac603c8184/transformed/espresso-idling-resource-3.4.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml
+INJECTED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [androidx.fragment:fragment-testing:1.3.6] /home/kayatone/.gradle/caches/transforms-3/2eb7eeeaf0651b65c7a75d4b764bf966/transformed/jetified-fragment-testing-1.3.6/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml
+		ADDED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml
+		ADDED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kayatone/AndroidStudioProjects/Task2_Navigation/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.REORDER_TASKS
+ADDED from [androidx.fragment:fragment-testing:1.3.6] /home/kayatone/.gradle/caches/transforms-3/2eb7eeeaf0651b65c7a75d4b764bf966/transformed/jetified-fragment-testing-1.3.6/AndroidManifest.xml:25:5-72
+MERGED from [androidx.test:core:1.4.0] /home/kayatone/.gradle/caches/transforms-3/fb56739d8f318f455312f29d8ee9a658/transformed/jetified-core-1.4.0/AndroidManifest.xml:24:5-72
+MERGED from [androidx.test:core:1.4.0] /home/kayatone/.gradle/caches/transforms-3/fb56739d8f318f455312f29d8ee9a658/transformed/jetified-core-1.4.0/AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from [androidx.fragment:fragment-testing:1.3.6] /home/kayatone/.gradle/caches/transforms-3/2eb7eeeaf0651b65c7a75d4b764bf966/transformed/jetified-fragment-testing-1.3.6/AndroidManifest.xml:25:22-69
+activity#androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity
+ADDED from [androidx.fragment:fragment-testing:1.3.6] /home/kayatone/.gradle/caches/transforms-3/2eb7eeeaf0651b65c7a75d4b764bf966/transformed/jetified-fragment-testing-1.3.6/AndroidManifest.xml:28:9-37:20
+	android:multiprocess
+		ADDED from [androidx.fragment:fragment-testing:1.3.6] /home/kayatone/.gradle/caches/transforms-3/2eb7eeeaf0651b65c7a75d4b764bf966/transformed/jetified-fragment-testing-1.3.6/AndroidManifest.xml:31:13-40
+	android:exported
+		ADDED from [androidx.fragment:fragment-testing:1.3.6] /home/kayatone/.gradle/caches/transforms-3/2eb7eeeaf0651b65c7a75d4b764bf966/transformed/jetified-fragment-testing-1.3.6/AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [androidx.fragment:fragment-testing:1.3.6] /home/kayatone/.gradle/caches/transforms-3/2eb7eeeaf0651b65c7a75d4b764bf966/transformed/jetified-fragment-testing-1.3.6/AndroidManifest.xml:33:13-78
+	android:taskAffinity
+		ADDED from [androidx.fragment:fragment-testing:1.3.6] /home/kayatone/.gradle/caches/transforms-3/2eb7eeeaf0651b65c7a75d4b764bf966/transformed/jetified-fragment-testing-1.3.6/AndroidManifest.xml:32:13-36
+	android:name
+		ADDED from [androidx.fragment:fragment-testing:1.3.6] /home/kayatone/.gradle/caches/transforms-3/2eb7eeeaf0651b65c7a75d4b764bf966/transformed/jetified-fragment-testing-1.3.6/AndroidManifest.xml:29:13-96
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from [androidx.fragment:fragment-testing:1.3.6] /home/kayatone/.gradle/caches/transforms-3/2eb7eeeaf0651b65c7a75d4b764bf966/transformed/jetified-fragment-testing-1.3.6/AndroidManifest.xml:34:13-36:29
+activity#androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+ADDED from [androidx.test:core:1.4.0] /home/kayatone/.gradle/caches/transforms-3/fb56739d8f318f455312f29d8ee9a658/transformed/jetified-core-1.4.0/AndroidManifest.xml:27:9-34:20
+	android:exported
+		ADDED from [androidx.test:core:1.4.0] /home/kayatone/.gradle/caches/transforms-3/fb56739d8f318f455312f29d8ee9a658/transformed/jetified-core-1.4.0/AndroidManifest.xml:29:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.4.0] /home/kayatone/.gradle/caches/transforms-3/fb56739d8f318f455312f29d8ee9a658/transformed/jetified-core-1.4.0/AndroidManifest.xml:30:13-49
+	android:name
+		ADDED from [androidx.test:core:1.4.0] /home/kayatone/.gradle/caches/transforms-3/fb56739d8f318f455312f29d8ee9a658/transformed/jetified-core-1.4.0/AndroidManifest.xml:28:13-99
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+ADDED from [androidx.test:core:1.4.0] /home/kayatone/.gradle/caches/transforms-3/fb56739d8f318f455312f29d8ee9a658/transformed/jetified-core-1.4.0/AndroidManifest.xml:35:9-42:20
+	android:exported
+		ADDED from [androidx.test:core:1.4.0] /home/kayatone/.gradle/caches/transforms-3/fb56739d8f318f455312f29d8ee9a658/transformed/jetified-core-1.4.0/AndroidManifest.xml:37:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.4.0] /home/kayatone/.gradle/caches/transforms-3/fb56739d8f318f455312f29d8ee9a658/transformed/jetified-core-1.4.0/AndroidManifest.xml:38:13-49
+	android:name
+		ADDED from [androidx.test:core:1.4.0] /home/kayatone/.gradle/caches/transforms-3/fb56739d8f318f455312f29d8ee9a658/transformed/jetified-core-1.4.0/AndroidManifest.xml:36:13-95
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity
+ADDED from [androidx.test:core:1.4.0] /home/kayatone/.gradle/caches/transforms-3/fb56739d8f318f455312f29d8ee9a658/transformed/jetified-core-1.4.0/AndroidManifest.xml:43:9-50:20
+	android:exported
+		ADDED from [androidx.test:core:1.4.0] /home/kayatone/.gradle/caches/transforms-3/fb56739d8f318f455312f29d8ee9a658/transformed/jetified-core-1.4.0/AndroidManifest.xml:45:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.4.0] /home/kayatone/.gradle/caches/transforms-3/fb56739d8f318f455312f29d8ee9a658/transformed/jetified-core-1.4.0/AndroidManifest.xml:46:13-56
+	android:name
+		ADDED from [androidx.test:core:1.4.0] /home/kayatone/.gradle/caches/transforms-3/fb56739d8f318f455312f29d8ee9a658/transformed/jetified-core-1.4.0/AndroidManifest.xml:44:13-103
+queries
+ADDED from [androidx.test:runner:1.4.0] /home/kayatone/.gradle/caches/transforms-3/bc0dc5e94bd2b1a37e3ac70aa66e81be/transformed/runner-1.4.0/AndroidManifest.xml:24:5-28:15
+package#androidx.test.orchestrator
+ADDED from [androidx.test:runner:1.4.0] /home/kayatone/.gradle/caches/transforms-3/bc0dc5e94bd2b1a37e3ac70aa66e81be/transformed/runner-1.4.0/AndroidManifest.xml:25:9-62
+	android:name
+		ADDED from [androidx.test:runner:1.4.0] /home/kayatone/.gradle/caches/transforms-3/bc0dc5e94bd2b1a37e3ac70aa66e81be/transformed/runner-1.4.0/AndroidManifest.xml:25:18-59
+package#androidx.test.services
+ADDED from [androidx.test:runner:1.4.0] /home/kayatone/.gradle/caches/transforms-3/bc0dc5e94bd2b1a37e3ac70aa66e81be/transformed/runner-1.4.0/AndroidManifest.xml:26:9-58
+	android:name
+		ADDED from [androidx.test:runner:1.4.0] /home/kayatone/.gradle/caches/transforms-3/bc0dc5e94bd2b1a37e3ac70aa66e81be/transformed/runner-1.4.0/AndroidManifest.xml:26:18-55
+package#com.google.android.apps.common.testing.services
+ADDED from [androidx.test:runner:1.4.0] /home/kayatone/.gradle/caches/transforms-3/bc0dc5e94bd2b1a37e3ac70aa66e81be/transformed/runner-1.4.0/AndroidManifest.xml:27:9-83
+	android:name
+		ADDED from [androidx.test:runner:1.4.0] /home/kayatone/.gradle/caches/transforms-3/bc0dc5e94bd2b1a37e3ac70aa66e81be/transformed/runner-1.4.0/AndroidManifest.xml:27:18-80

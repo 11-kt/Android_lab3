@@ -11,12 +11,12 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         title = "First Activity"
-
-        findViewById<Button>(R.id.second_act_main).setOnClickListener {
+        supportActionBar!!.setDisplayHomeAsUpEnabled(true)
+        findViewById<Button>(R.id.bnToSecond).setOnClickListener {
             startActivity(Intent(applicationContext, SecondActivity::class.java))
         }
 
-        findViewById<BottomNavigationView>(R.id.bottom_navigation).setOnItemSelectedListener { item ->
+        findViewById<BottomNavigationView>(R.id.nav_view).setOnItemSelectedListener { item ->
             if (item.itemId == R.id.about) {
                 startActivity(Intent(applicationContext, AboutActivity::class.java))
             }
@@ -24,4 +24,10 @@ class MainActivity : AppCompatActivity() {
         }
 
     }
+
+    override fun onSupportNavigateUp(): Boolean {
+        onBackPressed()
+        return super.onSupportNavigateUp()
+    }
+
 }

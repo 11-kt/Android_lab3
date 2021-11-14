@@ -23,7 +23,7 @@ class Fragment1: Fragment() {
 
         requireActivity().title = "Fragment 1"
 
-        view.findViewById<Button>(R.id.second_fr_first).setOnClickListener {
+        view.findViewById<Button>(R.id.bnToSecond).setOnClickListener {
             findNavController().navigate(R.id.action_fragment1_to_fragment2)
         }
 
